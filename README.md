@@ -8,17 +8,15 @@ This project demonstrates an FPGA-based control system for managing a home's HVA
 - **Furnace Control:** Manages the furnace operations for heating.
 - **Fan Control:** Controls the ventilation fan for air circulation.
 - **Display Interface:** Displays current status and settings on an LCD/LED display.
-- **User Interface:** Provides a user-friendly interface for adjusting settings.
 
 ## Block Diagram
 
 
 ## Technical Details
 - **FPGA Board:** [Specify the FPGA board used, e.g., Xilinx Artix-7]
-- **Programming Language:** VHDL/Verilog
+- **Programming Language:** VHDL
 - **Development Environment:** Vivado Design Suite
 - **Sensors:** [Specify sensors used, e.g., temperature sensors]
-- **Actuators:** [Specify actuators used, e.g., relays, motors]
 
 ## How It Works
 1. **Initialization:** The FPGA initializes all components and sets default parameters.
