@@ -11,7 +11,7 @@ This project demonstrates an FPGA-based control system for managing a home's HVA
 - **User Interface:** Provides a user-friendly interface for adjusting settings.
 
 ## Block Diagram
-![Block Diagram](images/block_diagram.png)
+
 
 ## Technical Details
 - **FPGA Board:** [Specify the FPGA board used, e.g., Xilinx Artix-7]
@@ -26,8 +26,3 @@ This project demonstrates an FPGA-based control system for managing a home's HVA
 3. **Control Logic:** Based on the temperature readings and user settings, the FPGA decides whether to activate the AC, furnace, or fan.
 4. **Display Update:** Updates the display with current status and allows user interaction to change settings.
 
-## Getting Started
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/username/fpga-hvac-control.git
-   cd fpga-hvac-control
