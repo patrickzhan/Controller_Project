@@ -1,5 +1,5 @@
 # FPGA-Based Home HVAC Control System
-https://github.com/patrickzhan/Controller_Project
+
 ## Overview
 This project demonstrates an FPGA-based control system for managing a home's HVAC (Heating, Ventilation, and Air Conditioning) system, including AC, Furnace, Fan, and Display functionalities. The system aims to provide efficient and reliable control, showcasing skills relevant to FPGA design, digital logic, and system integration.
 
@@ -20,3 +20,4 @@ This project demonstrates an FPGA-based control system for managing a home's HVA
 3. **Control Logic:** Based on the temperature readings and user settings, the FPGA decides whether to activate the AC, furnace, or fan.
 4. **Display Update:** Updates the display with current status and allows user interaction to change settings.
 
+[View the code on GitHub](https://github.com/patrickzhan/Controller_Project)
