@@ -9,15 +9,11 @@ This project demonstrates an FPGA-based control system for managing a home's HVA
 - **Fan Control:** Controls the ventilation fan for air circulation.
 - **Display Interface:** Displays current status and settings on an LCD/LED display.
 
-## Block Diagram
-
 
 ## Technical Details
-- **FPGA Board:** [Specify the FPGA board used, e.g., Xilinx Artix-7]
 - **Programming Language:** VHDL
 - **Development Environment:** Vivado Design Suite
-- **Sensors:** [Specify sensors used, e.g., temperature sensors]
-
+- 
 ## How It Works
 1. **Initialization:** The FPGA initializes all components and sets default parameters.
 2. **Temperature Reading:** Continuously reads temperature data from sensors.
